@@ -1,0 +1,20 @@
+<div id="resultado">
+    <div id="left">
+        <h1 class="text-light display-6 text-start">
+            {{ this.name }}, você é do signo de  {{ 'SIGNOS.'+this.signo+'.TITULO' | translate }}
+        </h1>
+        <p>
+            {{ 'SIGNOS.'+this.signo+'.TEXTO' | translate }}
+            <br>
+            <br>
+            <b>Afinidades: {{ 'SIGNOS.'+this.signo+'.AFINIDADES' | translate }}</b>
+        </p>
+    </div>
+    <div id="right">
+        <img src="{{ 'SIGNOS.'+this.signo+'.IMG' | translate }}" alt="">
+    </div>
+    <div id="botaoVoltar">
+        <button class="btn btn-primary" (click)="this.voltar()">Voltar</button>
+    </div>
+</div>
+

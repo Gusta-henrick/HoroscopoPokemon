@@ -1,0 +1,9 @@
+<form autocomplete="off" [formGroup]="pokemonForm" (ngSubmit)="descobrir()" class="container">
+    <div id="divTelaInicial">
+            <label id="labelName" for="name">Digite o seu nome: </label>
+            <input id="name"  class="form-control form-control-lg" type="text" formControlName="name" required>
+            <label id="labelDate" for="date">Sua data de nascimento: </label>
+            <input id="date" placeholder=" " class="form-control form-control-lg" type="date" formControlName="date" required>
+    </div>
+    <button class="btn btn-primary btn-lg" [disabled]="!pokemonForm.valid" type="submit">Descobrir</button>
+</form>

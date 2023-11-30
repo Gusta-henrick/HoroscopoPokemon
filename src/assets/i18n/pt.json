@@ -1,0 +1,76 @@
+{
+    "SIGNOS": {
+      "NOCTOWL": {
+        "TITULO": "Noctowl",
+        "TEXTO": "As pessoas pertencentes ao signo Noctowl são frequentemente descritas como ambiciosas, disciplinadas, responsáveis e práticas. São pessoas determinadas, persistentes e têm uma forte ética de trabalho. Geralmente, são organizados, cautelosos e têm um grande senso de responsabilidade, buscando estabilidade e segurança em suas vidas. Embora possam parecer reservados inicialmente, são leais e confiáveis com aqueles em quem confiam. Tendem a ser realistas, práticos e têm um forte desejo de alcançar seus objetivos a longo prazo.",
+        "AFINIDADES": "Miltank, Gardevoir e Gyarados",
+        "IMG": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/164.png"
+      },
+      "LAPRAS": {
+        "TITULO": "Lapras",
+        "TEXTO":"Laprianos são visionários e originais, conhecidos por sua mente inovadora e independência. Com uma mentalidade progressista, valorizam causas humanitárias e se destacam pela sua criatividade única. São sociáveis, mas também prezam sua liberdade pessoal, buscando conexões autênticas e duradouras. Sua abordagem analítica e curiosidade intelectual faz com que busquem constantemente novas ideias e conceitos, destacando-se por sua individualidade e amor pela diversidade.",
+        "AFINIDADES": "Chansey, Ho-Oh e Doduo", 
+        "IMG": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png"
+      },
+      "GYARADOS": {
+        "TITULO": "Gyarados",
+        "TEXTO": "Gyarados, o último signo do zodíaco Pokemon, é conhecido por sua sensibilidade, empatia e intuição aguçada. Pessoas desse signo são altamente criativas, têm uma rica vida interior e são capazes de se adaptar às diferentes situações. São compassivos, altruístas e frequentemente se perdem em sua imaginação. Esses nativos podem se destacar nas artes e são conhecidos por sua natureza sonhadora e compreensiva.",
+        "AFINIDADES": "Jigglypuff, Drapion e Noctowl", 
+        "IMG": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png"
+      },
+      "CHARIZARD": {
+        "TITULO": "Charizard",
+        "TEXTO": "Charizard é um signo enérgico e determinado, conhecido por sua liderança, impulsividade e coragem. Pessoas desse signo têm uma personalidade vibrante, são competitivas e buscam constantemente novos desafios. São diretas em suas opiniões e têm um espírito aventureiro, sempre prontas para agir e iniciar algo novo.",
+        "AFINIDADES": "Entei, Ho-Oh e Lapras",
+        "IMG": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+      },
+      "MILTANK": {
+        "TITULO": "Miltank",
+        "TEXTO": "Miltank é conhecido por sua natureza estável, prática e perseverante. Pessoas nascidas sob este signo tendem a ser pacientes, confiáveis e valorizam a segurança e o conforto. São conhecidas por sua determinação e persistência ao perseguir seus objetivos, além de terem um grande apreço por prazeres sensoriais, desfrutando de boa comida, conforto e estabilidade em suas vidas.",
+        "AFINIDADES": "Gardevoir, Noctowl e Jigglypuff",
+        "IMG": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/241.png"
+      },
+      "DODUO": {
+        "TITULO": "Doduo",
+        "TEXTO": "O signo de Doduo é conhecido por sua natureza curiosa, comunicativa e versátil. Pessoas nascidas sob este signo tendem a ser inteligentes, adaptáveis e têm uma mente ágil. São sociáveis, extrovertidas e adoram interagir com uma variedade de pessoas, sendo hábeis na comunicação e gostando de explorar novas ideias. Sua curiosidade inata frequentemente os leva a buscar conhecimento e a absorver informações rapidamente, enquanto sua dualidade pode levá-los a expressar diferentes aspectos de suas personalidades em situações diversas.",
+        "AFINIDADES": "Lapras, Chansey e Charizard",
+        "IMG": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png"
+      },
+      "JIGGLYPUFF": {
+        "TITULO": "Jigglypuff",
+        "TEXTO": "Jigglypuffs são conhecidos por sua natureza emotiva, empática e protetora. Pessoas nascidas sob este signo tendem a ser sensíveis, carinhosas e possuem uma forte ligação com a família e o lar. São intuitivas, nutrem profundas emoções e têm uma tendência natural para cuidar dos outros. Apegados às memórias e tradições, valorizam a segurança emocional, a intimidade e tendem a se conectar profundamente com as pessoas ao seu redor, procurando criar ambientes acolhedores e seguros para aqueles que amam.",
+        "AFINIDADES": "Gyarados, Miltank e Gardevoir",
+        "IMG": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png"
+      },
+      "ENTEI": {
+        "TITULO": "Entei",
+        "TEXTO": "Com sua natureza apaixonada, confiante e carismática. Pessoas nascidas no signo Entei tendem a ser extrovertidas, expressivas e têm um forte desejo de serem o centro das atenções. São líderes naturais, cheios de entusiasmo e determinação, buscando o reconhecimento e admirando a generosidade. Leão possui um grande coração, é leal aos amigos e familiares, e seu carisma natural muitas vezes os coloca em papéis de destaque em suas vidas pessoais e profissionais.",
+        "AFINIDADES": "Charizard, Jigglypuff e Ho-Oh",
+        "IMG": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/244.png"
+      },
+      "GARDEVOIR": {
+        "TITULO": "Gardevoir",
+        "TEXTO": "Gardevoir é conhecido por sua natureza prática, analítica e perfeccionista. Pessoas nascidas sob este signo tendem a ser meticulosas, organizadas e têm uma habilidade inata para observar detalhes. São responsáveis, confiáveis e buscam a perfeição em tudo o que fazem, o que pode resultar em um alto padrão de qualidade em seu trabalho e em suas interações. Com uma mente lógica e metódica, Gardevoir valoriza a precisão e pode ser reservado inicialmente, mas demonstra grande dedicação àqueles que estão próximos a eles, buscando ajudar de maneira prática e eficiente.",
+        "AFINIDADES": "Miltank, Noctowl e Jigglypuff",
+        "IMG": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/282.png"
+      },
+      "CHANSEY": {
+        "TITULO": "Chansey",
+        "TEXTO": "Chanseys tendem a ser equilibradas, buscando a harmonia e a justiça em todas as situações. São amigáveis, charmosas e têm uma habilidade natural para manter relacionamentos harmoniosos. Valorizam a paz e a beleza, são apaixonados pela estética e tendem a procurar o equilíbrio em suas vidas, buscando a cooperação e a conciliação ao lidar com conflitos. Sua mentalidade justa e seu encanto pessoal muitas vezes os tornam mediadores habilidosos em situações de tensão.",
+        "AFINIDADES": "Doduo, Entei e Lapras",
+        "IMG": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png"
+      },
+      "DRAPION": {
+        "TITULO": "Drapion",
+        "TEXTO": "Pessoas desse signo são frequentemente vistas como passionais, misteriosas e possuem uma natureza poderosa e magnética. São perspicazes, intuitivos e tendem a ter uma forte presença emocional, sendo capazes de mergulhar profundamente nas situações. Tem a natureza de ressurgir e se reinventar após desafios. São leais aos seus valores e aqueles que têm a confiança de um Drapioniano podem encontrar uma lealdade inabalável. Esses indivíduos têm um desejo de descobrir a verdade nas situações e podem ser tanto apaixonados quanto reservados, dependendo das circunstâncias.",
+        "AFINIDADES": "Gyarados, Jigglypuff e Noctowl",
+        "IMG": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/452.png"
+      },
+      "HOOH": {
+        "TITULO": "Ho-Oh",
+        "TEXTO": "Ho-Oh é conhecido por sua natureza otimista, aventureira e expansiva. Pessoas nascidas sob este signo tendem a ser entusiasmadas, livres e têm um espírito alegre e jovial. São exploradoras por natureza, sempre em busca de novas experiências e conhecimentos. Pessoas de Ho-Oh são francas, diretas e têm uma mente aberta, adotando uma visão ampla e filosófica da vida. Possuem uma sede por liberdade e independência, sendo naturalmente atraídos por viagens, aventuras e aprendizado contínuo, buscando constantemente expandir seus horizontes",
+        "AFINIDADES": "Gyarados, Jigglypuff e Noctowl",
+        "IMG": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/250.png"
+      }
+    }
+  }
