@@ -1,5 +1,6 @@
 <div id="resultado">
-    <div id="left">
+    <img class="img-fluid" src="{{ 'SIGNOS.'+this.signo+'.IMG' | translate }}" alt="">
+
         <h1 class="text-light display-6 text-start">
             {{ this.name }}, você é do signo de  {{ 'SIGNOS.'+this.signo+'.TITULO' | translate }}
         </h1>
@@ -9,12 +10,6 @@
             <br>
             <b>Afinidades: {{ 'SIGNOS.'+this.signo+'.AFINIDADES' | translate }}</b>
         </p>
-    </div>
-    <div id="right">
-        <img src="{{ 'SIGNOS.'+this.signo+'.IMG' | translate }}" alt="">
-    </div>
-    <div id="botaoVoltar">
-        <button class="btn btn-primary" (click)="this.voltar()">Voltar</button>
-    </div>
+        <button id="botaoVoltar" class="btn btn-primary" (click)="this.voltar()">Voltar</button>
 </div>
 
