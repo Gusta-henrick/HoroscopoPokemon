@@ -1,3 +1,6 @@
+![image](https://github.com/gustavohdo/HoroscopoPokemon/assets/23175018/1a6f4924-9322-4f6c-a2bb-4c0da13e5d99)
+
+
 # PokeHoroscopo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
